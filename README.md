@@ -1,4 +1,5 @@
 Phishing Risk Management Project
+
 Introduction
 
 This project simulates phishing risk management for a mid-sized business (~200 employees) that recently experienced multiple phishing attacks. The goal is to design a complete framework combining risk assessment, security policies, awareness training, incident response, and analytics.
