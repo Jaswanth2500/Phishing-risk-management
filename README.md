@@ -18,16 +18,16 @@ Build a structured incident response playbook.
 (Optional) Develop an analytics dashboard to measure risk reduction.
 
 Project Structure
-Phishing-Risk-Management-Project/
-├── 1_Risk_Assessment_Report.pdf
-├── 2_Email_Security_Policy.docx
-├── 3_Awareness_Campaign_Materials/
-│   ├── Poster_Preview.pdf
-│   └── Phishing_Tips_Email.txt
-├── 4_Incident_Response_Playbook.docx
-├── 5_Email_Activity_Analytics.xlsx
-└── visual/
-    └── Email_Flow_Diagram.png
+Phishing-Risk-Management-Project
+ 1_Risk_Assessment_Report.pdf
+ 2_Email_Security_Policy.docx
+ 3_Awareness_Campaign_Materials
+     3.a_Poster_Preview.pdf
+     3.b_Phishing_Tips_Email.txt
+ 4_Incident_Response_Playbook.docx
+ 5_Email_Activity_Analytics.xlsx
+      5.a_visual
+         5.a.i_Email_Flow_Diagram.png
 
 Deliverables
 
